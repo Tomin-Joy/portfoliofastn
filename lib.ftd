@@ -419,11 +419,11 @@ role: $inherited.types.label-large
 style: semi-bold
 color: white
 
--- ftd.text: Trizwit
+-- ftd.text: Tomin
 role: $inherited.types.label-large
 style: semi-bold
 color: white
-link: https://trizwit.com/
+link: https://tominjoy.tech/
 
 -- end: ftd.row
 
